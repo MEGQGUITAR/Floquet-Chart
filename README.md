@@ -1,2 +1,3 @@
 # Floquet-Chart
-Floquet Chart for early ages on the universe, for differents modes of oscilation of the inflaton field.
+Floquet Chart for early ages on the universe, for differents modes of oscilation of the inflaton field, to identify the main resonance band.
+![floquet](Floquet.png)
